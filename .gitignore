@@ -42,3 +42,10 @@ raylib/src/*.a
 raylib/src/*.exe
 
 raylib-master/
+
+build/
+bin/
+obj/
+*.exe
+*.pdb
+*.tlog
